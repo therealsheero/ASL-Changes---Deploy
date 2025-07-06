@@ -1,5 +1,7 @@
 ---
+
 **ASL Crossword**
+
 ---
 This project focuses on detecting American Sign Language (ASL) hand gestures using deep learning and taking it a step further — using those detected signs to play a simple **crossword game**. The system includes data collection with OpenCV and MediaPipe, training a MobileNetV2-based image classification model, and evaluating its performance on a custom dataset of ASL signs (0-9 and A-Z).
 
